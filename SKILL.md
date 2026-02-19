@@ -4,7 +4,8 @@ description: Examine whole system behavior that cannot be predicted from parts a
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.5117
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - synergetic-analysis
 - writing
